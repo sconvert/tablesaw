@@ -6,3 +6,6 @@ An implementation of tablesaw. Responsive tables + sort on columns.
 
 #Notes
 Tri incorrect, voir sort-custom, c'est pas grand'chose.
+
+#Sources
+[Tablesaw Filament group](https://github.com/filamentgroup/tablesaw)
